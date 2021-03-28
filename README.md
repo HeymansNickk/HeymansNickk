@@ -1,6 +1,8 @@
 
 ## Socials
-[![](https://api.iconify.design/fa-brands:linkedin.svg?height=30&color=%23313131) ](https://www.linkedin.com/in/nick-heymans/)&nbsp;&nbsp;[![](https://api.iconify.design/fa-brands:github.svg?height=30&color=%23313131) ](https://github.com/HeymansNickk)&nbsp;&nbsp;[![](htps://api.iconify.design/fa-brands:twitter.svg?height=30&color=%23313131) ](https://twitter.com/heymans_nick)&nbsp;&nbsp;
+[![](https://api.iconify.design/fa-brands:linkedin.svg?height=30&color=%23313131) ](https://www.linkedin.com/in/nick-heymans/)&nbsp;&nbsp;
+[![](https://api.iconify.design/fa-brands:github.svg?height=30&color=%23313131) ](https://github.com/HeymansNickk)&nbsp;&nbsp;
+[![](https://api.iconify.design/fa-brands:twitter.svg?height=30&color=%23313131) ](https://twitter.com/heymans_nick)&nbsp;&nbsp;
 
 
 ## Stats
